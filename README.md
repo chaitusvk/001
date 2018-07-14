@@ -9,7 +9,7 @@ Useful linux commands
 1.chsh -s $(which zsh)
 
 
-#Install Git
+# Install Git
 sudo apt-get purge runit
 sudo apt-get purge git-all
 sudo apt-get purge git
