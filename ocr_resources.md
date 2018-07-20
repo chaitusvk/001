@@ -3,3 +3,7 @@
 
 ## Generate images with PIL
 [images with PIL](https://code-maven.com/create-images-with-python-pil-pillow)
+
+
+## OCR Datasets
+[OCR DATASETS TC-11](http://tc11.cvc.uab.es/)
