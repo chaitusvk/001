@@ -7,3 +7,5 @@
 
 ## OCR Datasets
 [OCR DATASETS TC-11](http://tc11.cvc.uab.es/)
+
+[downloads](http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List)
