@@ -16,4 +16,8 @@
 2.C-x C-f /ssh:username@ipaddress:  -> open Dired on remote file system
 
 
+# Emacs mark ring   
+1.[Ergo emacs](http://ergoemacs.org/emacs/emacs_jump_to_previous_position.html)    
+
+
 
