@@ -1,5 +1,7 @@
 # yasnippet
-1. m-x yas/describe-tables  : display snippets in specific mode
+1. m-x yas/describe-tables  : display snippets in specific mode       
+2. M-x yas-describe-tables  :Display snippets active in that mode
+
 
 # Describe mode
 1. C-h m
