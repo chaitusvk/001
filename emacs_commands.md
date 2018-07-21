@@ -8,7 +8,7 @@
 1.C-h k
 
 # Tramp mode
-1.C-x C-f /ssh:username@www.cstuy.org:/home/zamansky/sc/testfile   : Open file and edit 
+1.C-x C-f /ssh:username@www.cstuy.org:/home/zamansky/sc/testfile   : Open file and edit          
 2.C-x C-f /ssh:username@ipaddress:  -> open Dired on remote file system
 
 
