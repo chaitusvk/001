@@ -21,6 +21,19 @@ Good to start with ctc Rnn on ocr
 Review:   
 Basic tensor-flow CTC_RNNon MNIST combined beatiful
 
+3.[intro to RNN in TF](https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/)      
+
+good 
+
+4.[CTC explanation distill](https://distill.pub/2017/ctc/)    
+
+5.[Noobs guide to RNN in TF](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)      
+
+
+
+
+
+
 
 
 
