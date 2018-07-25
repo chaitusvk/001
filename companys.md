@@ -2,3 +2,5 @@
 # [https://www.deepconverse.com/](https://www.deepconverse.com/)
 # [https://angel.co/deepdivevision/jobs](https://angel.co/deepdivevision/jobs)
 # [https://www.smartbeings.com/](https://www.smartbeings.com/)
+# [http://bigthinx.com/] (http://bigthinx.com/)
+# [Busigence Technologies](http://careers.busigence.com/)
