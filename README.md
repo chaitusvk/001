@@ -20,3 +20,11 @@ Useful linux commands
 # Google SEEDBANK
 [GOOGLE SEEDBANK](http://tools.google.com/seedbank/)
 
+# Ngrok
+[Ngrok](https://6ftdan.com/allyourdev/2015/02/12/setting-up-remote-ssh-access-to-your-ubuntu-box/)
+1.ngrok -proto=tcp 22      
+2.You will see a ngrok url like tcp://ngrok.com:12345      
+3.ssh -p 12345 ngrok.com       
+
+
+
