@@ -4,4 +4,6 @@
 
 [http://www.idiap.ch/~fleuret/index.html](http://www.idiap.ch/~fleuret/index.html)
 
-[tensor flow chatbot](https://github.com/llSourcell/tensorflow_chatbot)
+[tensor flow chatbot](https://github.com/llSourcell/tensorflow_chatbot)     
+
+[columbia deep learning](http://llcao.net/cu-deeplearning17/schedule.html)
