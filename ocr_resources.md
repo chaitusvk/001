@@ -27,7 +27,9 @@ good
 
 4.[CTC explanation distill](https://distill.pub/2017/ctc/)    
 
-5.[Noobs guide to RNN in TF](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)      
+5.[Noobs guide to RNN in TF](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)     
+
+6. [ctc_ocr](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
 
 
 
