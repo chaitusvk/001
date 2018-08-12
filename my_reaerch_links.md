@@ -6,4 +6,7 @@
 
 [tensor flow chatbot](https://github.com/llSourcell/tensorflow_chatbot)     
 
-[columbia deep learning](http://llcao.net/cu-deeplearning17/schedule.html)
+[columbia deep learning](http://llcao.net/cu-deeplearning17/schedule.html)      
+
+[princton and mit datasets](http://3dvision.princeton.edu/projects/2016/apc/)
+
