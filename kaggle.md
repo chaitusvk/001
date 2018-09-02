@@ -1,1 +1,3 @@
 [Speech_recogniation](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
+[Sentimental analysis](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+[Planet understanding](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
