@@ -26,5 +26,8 @@ Useful linux commands
 2.You will see a ngrok url like tcp://ngrok.com:12345      
 3.ssh -p 12345 ngrok.com       
 
+# REDSHIFT
+1.redshift -O 4500 -b 0.9
+
 
 
