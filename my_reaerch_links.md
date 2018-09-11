@@ -10,3 +10,6 @@
 
 [princton and mit datasets](http://3dvision.princeton.edu/projects/2016/apc/)
 
+[good deep learning-1](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
+
+[good deep learning-2](https://telecombcn-dl.github.io/2017-dlsl/)
