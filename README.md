@@ -30,7 +30,7 @@ Useful linux commands
 1.redshift -O 4500 -b 0.9
 
 # Wget
-1.wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://example.org
+1.wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://example.org        
 --mirror – Makes (among other things) the download recursive.           
 --convert-links – convert all the links (also to stuff like CSS stylesheets) to relative, so it will be suitable for offline viewing.            
 --adjust-extension – Adds suitable extensions to filenames (html or css) depending on their content-type.        
