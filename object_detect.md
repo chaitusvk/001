@@ -8,5 +8,9 @@
 # FasterRCNN
 1.[Faster RCNN](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8)      
 2.[git code](https://github.com/rbgirshick/py-faster-rcnn)     
-3.[Paper](https://arxiv.org/pdf/1504.08083.pdf)    
+3.[Paper](https://arxiv.org/pdf/1504.08083.pdf)  
+
+# Priya dewidi links     
+1.[using tensor flow api](https://towardsdatascience.com/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)
+
 
