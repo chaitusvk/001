@@ -1,5 +1,6 @@
 # YOLO
-1.[Yolo in pytorch](https://blog.paperspace.com/tag/series-yolo/)
+1.[Yolo in pytorch](https://blog.paperspace.com/tag/series-yolo/)       
+2.[YOLO Medium blog](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
 # SSD
 1.[Single shot detector](https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad)
