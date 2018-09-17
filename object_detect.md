@@ -13,4 +13,6 @@
 # Priya dewidi links     
 1.[using tensor flow api](https://towardsdatascience.com/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)
 
+# Attension models
+1.[attension moels](https://medium.com/@sunnerli/visual-attention-in-deep-learning-77653f611855)
 
