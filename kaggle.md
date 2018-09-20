@@ -17,3 +17,4 @@
 
 # MISLenous
 [Bosh production line](https://www.kaggle.com/c/bosch-production-line-performance)
+[Expedia hotel recommentdation](https://www.kaggle.com/c/expedia-hotel-recommendations)
