@@ -4,3 +4,8 @@
 [Whale identification](https://www.kaggle.com/c/whale-categorization-playground)
 [Dog bread identifiation](https://www.kaggle.com/c/dog-breed-identification#description)     
 [Planet seedling](https://www.kaggle.com/c/plant-seedlings-classification)
+
+
+
+# NLP
+[QUORA question](https://www.kaggle.com/c/quora-question-pairs)
