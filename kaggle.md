@@ -10,3 +10,4 @@
 
 # NLP
 [QUORA question](https://www.kaggle.com/c/quora-question-pairs)
+[Movie review](https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only)
