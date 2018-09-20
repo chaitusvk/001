@@ -19,4 +19,5 @@
 [Bosh production line](https://www.kaggle.com/c/bosch-production-line-performance)         
 [Expedia hotel recommentdation](https://www.kaggle.com/c/expedia-hotel-recommendations)          
 [Restrarant revenue](https://www.kaggle.com/c/restaurant-revenue-prediction)   
-[cutting costs in benz](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)          
+[cutting costs in benz](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)    
+[Red hat bussiness value](https://www.kaggle.com/c/predicting-red-hat-business-value)          
