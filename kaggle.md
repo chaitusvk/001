@@ -6,6 +6,7 @@
 [Planet seedling](https://www.kaggle.com/c/plant-seedlings-classification)
 [Leaf classification](https://www.kaggle.com/c/leaf-classification)
 [Satilliete image chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)
+[Facial point detection](https://www.kaggle.com/c/facial-keypoints-detection)
 
 
 
