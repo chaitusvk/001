@@ -4,8 +4,8 @@
 [Whale identification](https://www.kaggle.com/c/whale-categorization-playground)
 [Dog bread identifiation](https://www.kaggle.com/c/dog-breed-identification#description)     
 [Planet seedling](https://www.kaggle.com/c/plant-seedlings-classification)
-[Leaf classification](https://www.kaggle.com/c/leaf-classification)
-[Satilliete image chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)
+[Leaf classification](https://www.kaggle.com/c/leaf-classification)           
+[Satilliete image chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)        
 [Facial point detection](https://www.kaggle.com/c/facial-keypoints-detection)       
 [DSTL Satillite image](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
 
