@@ -12,4 +12,8 @@
 
 [good deep learning-1](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 
-[good deep learning-2](https://telecombcn-dl.github.io/2017-dlsl/)
+[good deep learning-2](https://telecombcn-dl.github.io/2017-dlsl/)       
+
+[Gans and Wgans](https://github.com/carpedm20/DCGAN-tensorflow)     
+
+[Gans](https://github.com/lilianweng/unified-gan-tensorflow)
