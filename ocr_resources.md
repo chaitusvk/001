@@ -1,5 +1,6 @@
 # Language Model in OCR
 [OCR with language model](https://medium.com/apache-mxnet/handwriting-ocr-handwriting-recognition-and-language-modeling-with-mxnet-gluon-4c7165788c67)
+[Git hub link of code](https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet)
 
 
 # Nicolas smith link
