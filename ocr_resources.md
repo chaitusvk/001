@@ -1,3 +1,7 @@
+# Language Model in OCR
+[OCR with language model](https://medium.com/apache-mxnet/handwriting-ocr-handwriting-recognition-and-language-modeling-with-mxnet-gluon-4c7165788c67)
+
+
 # Nicolas smith link
 [ocr with cnn unsegmented](https://nicholastsmith.wordpress.com/2017/10/14/deep-learning-ocr-using-tensorflow-and-python/)
 
