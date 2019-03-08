@@ -8,6 +8,7 @@
 [Satilliete image chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)        
 [Facial point detection](https://www.kaggle.com/c/facial-keypoints-detection)       
 [DSTL Satillite image](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+[capcha to text](https://www.kaggle.com/famadio/captcha-2-text/kernels)
 
 
 
